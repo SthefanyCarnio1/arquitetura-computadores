@@ -1,2 +1,6 @@
 # arquitetura-computadores
-Trabalho da disciplina Arquitetura e Organização de Computadores
+rabalho da disciplina Arquitetura e Organização de Computadores.
+
+Conteúdo:
+- Relatório em PDF
+- Simulação no Logisim
