@@ -1,5 +1,5 @@
 # arquitetura-computadores
-rabalho da disciplina Arquitetura e Organização de Computadores.
+trabalho da disciplina Arquitetura e Organização de Computadores.
 
 Conteúdo:
 - Relatório em PDF
